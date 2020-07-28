@@ -5,8 +5,7 @@
 		"webServerNames": {
 			"type": "array",
 			"defaultValue": [
-				"vm-wdgt-dev-1",
-				"vm-wdgt-dev-2"
+				"vm-wdgt-dev-1"
 			]
 		},
 		"webVmSize": {
